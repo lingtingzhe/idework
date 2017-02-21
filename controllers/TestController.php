@@ -17,6 +17,7 @@ class TestController extends Controller
 {
     public function actionUrl()
     {
+		//测试数据 提交
         $java_path = '/member/certification/checkThree';
 
         $url = explode('/', $java_path);
