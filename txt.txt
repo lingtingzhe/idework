@@ -1,0 +1,5 @@
+<?php
+echo "test txt";
+
+day week month
+merge txt.txt
